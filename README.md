@@ -2,19 +2,19 @@
 literature review for all kinds of our research work
 # contents
 
-## Theory and Methodology
-### Few-shot learning
+## 1. Theory and Methodology
+### 1.1 Few-shot learning
 
-### Transfer Learning
+### 1.2 Transfer Learning
 
-### Unsupervised Learning
+### 1.3 Unsupervised Learning
 
-### Imitation Learning
+### 1.4 Imitation Learning
 
-## Applications
+## 2. Applications
 
-### Fault Diagnosis
+### 2.1 Fault Diagnosis
 
-### Remaining Useful Lifetime
+### 2.2 Remaining Useful Lifetime
 
 
