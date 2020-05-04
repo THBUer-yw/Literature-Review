@@ -15,6 +15,6 @@ literature review for all kinds of our research work
 
 ### 2.1 Fault Diagnosis
 
-### 2.2 Remaining Useful Lifetime
+### 2.2 [Remaining Useful Life](https://github.com/mingzhangPHD/Literature-Review/blob/master/remaining%20useful%20life/paper_review.md)
 
 
