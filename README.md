@@ -3,7 +3,7 @@ literature review for all kinds of our research work
 # contents
 
 ## 1. Theory and Methodology
-### 1.1 Few-shot learning
+### 1.1 [Few-shot learning](https://github.com/mingzhangPHD/Literature-Review/blob/master/Few-shot%20Learning/paper_review_fs.md)
 
 ### 1.2 Transfer Learning
 
