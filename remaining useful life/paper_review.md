@@ -19,7 +19,11 @@
 * 2020.04: [Similarity-based deep learning approach for remaining useful life prediction]()
   - 使用无监督RBM进行了HI的构建，然后使用Bi-LSTM network structure进行预测，在C-MAPSS dataset和XJTU-SY bearing accelerated life test platform上进行了验证
   
+
+* 2018.11:[Deep learning-based remaining useful life estimation of bearings using multi-scale feature extraction]()
+  -使用时频变化对振动信号进行处理，使用CNN进行多层特征提取，进行寿命预测，比较典型的深度学习预测方法，在PHM 2012 Challenge dataset上进行了验证
   
+ 
   
 ### 2. Statistical model-based methods
 
