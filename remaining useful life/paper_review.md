@@ -16,6 +16,10 @@
 * 2020.03: [A novel approach for predicting tool remaining useful life using limited data]()
   - 这篇主要是对milling experiments进行分析，先构建了Adaptive time window，主要用于确定FOT，其内核是Tool wear factor determination，刀具磨损，然后是用Deep bidirectional LSTM进行数据有限条件下的剩余寿命预测，但是具体数据如何有限的条件并不非常明确，在milling machine tool进行了验证（可能是自己的数据集）；
   
+* 2020.04: [Similarity-based deep learning approach for remaining useful life prediction]()
+  - 使用无监督RBM进行了HI的构建，然后使用Bi-LSTM network structure进行预测，在C-MAPSS dataset和XJTU-SY bearing accelerated life test platform上进行了验证
+  
+  
   
 ### 2. Statistical model-based methods
 
