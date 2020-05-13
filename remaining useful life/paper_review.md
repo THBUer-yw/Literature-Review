@@ -2,6 +2,9 @@
 
 * [Machinery health prognostics: A systematic review from data acquisition to RUL prediction](https://www.sciencedirect.com/science/article/abs/pii/S0888327017305988)
   - 2017年RUL的review文章，总结非常到位
+  
+# Data link
+[NASA](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/)
 
 ## RUL prediction
 
@@ -18,6 +21,9 @@
   
 * 2020.04: [Similarity-based deep learning approach for remaining useful life prediction]()
   - 使用无监督RBM进行了HI的构建，然后使用Bi-LSTM network structure进行预测，在C-MAPSS dataset和XJTU-SY bearing accelerated life test platform上进行了验证
+  
+ * 2019.07: [Forecasting remaining useful life: Interpretable deep learning approach via variational Bayesian inferences]()
+  - 这篇文章中提到了可解释性的深度学习方法，使用的是变分贝叶斯推理，并给出了[代码](https://github.com/MathiasKraus/PredictiveMaintenance), 在PHM08 Challenge Data Set上进行了验证
   
 
 * 2018.11:[Deep learning-based remaining useful life estimation of bearings using multi-scale feature extraction]()
