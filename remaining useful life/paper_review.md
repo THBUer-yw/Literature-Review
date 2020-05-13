@@ -5,14 +5,14 @@
 
 ## RUL prediction
 
-1. AI-based methods
+### 1. AI-based methods
 
-2. Statistical model-based methods
-
-
-3. Hybrid approaches
+### 2. Statistical model-based methods
 
 
-3. Physics model-based approaches
+### 3. Hybrid approaches
+
+
+### 4. Physics model-based approaches
 
 ## HI construction
