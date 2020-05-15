@@ -22,10 +22,6 @@
 * 2020.04: [Similarity-based deep learning approach for remaining useful life prediction]()
   - 使用无监督RBM进行了HI的构建，然后使用Bi-LSTM network structure进行预测，在C-MAPSS dataset和XJTU-SY bearing accelerated life test platform上进行了验证
   
- * 2019.07: [Forecasting remaining useful life: Interpretable deep learning approach via variational Bayesian inferences]()
-  - 这篇文章中提到了可解释性的深度学习方法，使用的是变分贝叶斯推理，并给出了[代码](https://github.com/MathiasKraus/PredictiveMaintenance), 在PHM08 Challenge Data Set上进行了验证
-  
-
 * 2018.11:[Deep learning-based remaining useful life estimation of bearings using multi-scale feature extraction]()
   -使用时频变化对振动信号进行处理，使用CNN进行多层特征提取，进行寿命预测，比较典型的深度学习预测方法，在PHM 2012 Challenge dataset上进行了验证
   
@@ -36,6 +32,8 @@
 
 ### 3. Hybrid approaches
 
+ * 2019.07: [Forecasting remaining useful life: Interpretable deep learning approach via variational Bayesian inferences]()
+  - 这篇文章中提到了可解释性的深度学习方法，使用的是变分贝叶斯推理，并给出了[代码](https://github.com/MathiasKraus/PredictiveMaintenance), 在PHM08 Challenge Data Set上进行了验证
 
 ### 4. Physics model-based approaches
 
